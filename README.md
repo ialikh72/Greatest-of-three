@@ -1,5 +1,3 @@
-
-
 # Python Program: Find the Greatest of Three Numbers
 
 ## Description
